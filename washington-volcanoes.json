@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+{
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -121.113,
+        48.112
+      ]
+    },
+    "properties": {
+      "volcanoName": "Glacier Peak",
+      "vnum": "321020",
+      "volcanoCd": "wa3",
+      "volcanoUrl": "https://www.usgs.gov/volcanoes/glacier-peak",
+      "volcanoImage": "https://volcanoes.usgs.gov/vsc/images/glacier_peak/Glacier-Peak-home.jpg",
+      "obs": "cvo",
+      "region": "Washington",
+      "noticeId": null,
+      "noticeSynopsis": null,
+      "noticeUrl": null,
+      "alertLevel": "NORMAL",
+      "colorCode": "GREEN",
+      "statusIconUrl": "https://volcanoes.usgs.gov/images/icons/map/green_normal.png",
+      "alertDate": null,
+      "colorDate": null,
+      "nvewsThreat": "Very High Threat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -121.82,
+        45.93
+      ]
+    },
+    "properties": {
+      "volcanoName": "Indian Heaven Volcanic Field",
+      "vnum": "321070",
+      "volcanoCd": "wa5",
+      "volcanoUrl": "https://www.usgs.gov/volcanoes/indian-heaven-volcanic-field",
+      "volcanoImage": "https://volcanoes.usgs.gov/vsc/images/indian_heaven/Indian-Heaven_Lemei-Rock_home.jpg",
+      "obs": "cvo",
+      "region": "Washington",
+      "noticeId": null,
+      "noticeSynopsis": null,
+      "noticeUrl": null,
+      "alertLevel": "UNASSIGNED",
+      "colorCode": "UNASSIGNED",
+      "statusIconUrl": "https://volcanoes.usgs.gov/images/icons/map/unassigned_unassigned.png",
+      "alertDate": null,
+      "colorDate": null,
+      "nvewsThreat": "Low Threat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -121.49,
+        46.206
+      ]
+    },
+    "properties": {
+      "volcanoName": "Mount Adams",
+      "vnum": "321040",
+      "volcanoCd": "wa1",
+      "volcanoUrl": "https://www.usgs.gov/volcanoes/mount-adams",
+      "volcanoImage": "https://volcanoes.usgs.gov/vsc/images/adams/Mount-Adams-home.jpg",
+      "obs": "cvo",
+      "region": "Washington",
+      "noticeId": "DOI-USGS-CVO-2024-10-03T19:20:03+00:00",
+      "noticeSynopsis": "CVO Mount Adams GREEN/NORMAL - The USGS Cascades Volcano Observatory and Pacific Northwest Seismic Network located six earthquakes at Mount Adams, ranging from magnitudes 0.9 to 2.0.",
+      "noticeUrl": "https://volcanoes.usgs.gov/hans2/view/notice/DOI-USGS-CVO-2024-10-03T19:20:03+00:00",
+      "alertLevel": "NORMAL",
+      "colorCode": "GREEN",
+      "statusIconUrl": "https://volcanoes.usgs.gov/images/icons/map/green_normal.png",
+      "alertDate": "2024-10-03 19:37:15",
+      "colorDate": "2024-10-03 19:37:15",
+      "nvewsThreat": "High Threat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -121.76,
+        46.853
+      ]
+    },
+    "properties": {
+      "volcanoName": "Mount Rainier",
+      "vnum": "321030",
+      "volcanoCd": "wa6",
+      "volcanoUrl": "https://www.usgs.gov/volcanoes/mount-rainier",
+      "volcanoImage": "https://volcanoes.usgs.gov/vsc/images/mount_rainier/Mount-Rainier-home.jpg",
+      "obs": "cvo",
+      "region": "Washington",
+      "noticeId": null,
+      "noticeSynopsis": null,
+      "noticeUrl": null,
+      "alertLevel": "NORMAL",
+      "colorCode": "GREEN",
+      "statusIconUrl": "https://volcanoes.usgs.gov/images/icons/map/green_normal.png",
+      "alertDate": null,
+      "colorDate": null,
+      "nvewsThreat": "Very High Threat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.18,
+        46.2
+      ]
+    },
+    "properties": {
+      "volcanoName": "Mount St. Helens",
+      "vnum": "321050",
+      "volcanoCd": "wa4",
+      "volcanoUrl": "https://www.usgs.gov/volcanoes/mount-st-helens",
+      "volcanoImage": "https://volcanoes.usgs.gov/vsc/images/st_helens/Mount-st-Helens-home.jpg",
+      "obs": "cvo",
+      "region": "Washington",
+      "noticeId": "DOI-USGS-CVO-2023-10-30T15:30:33-07:00",
+      "noticeSynopsis": "CVO Mount St. Helens GREEN/NORMAL - Over the last three months seismicity has been elevated at Mount St. Helens, but there are no signs of impending eruption.",
+      "noticeUrl": "https://volcanoes.usgs.gov/hans2/view/notice/DOI-USGS-CVO-2023-10-30T15:30:33-07:00",
+      "alertLevel": "NORMAL",
+      "colorCode": "GREEN",
+      "statusIconUrl": "https://volcanoes.usgs.gov/images/icons/map/green_normal.png",
+      "alertDate": "2023-10-30 22:53:25",
+      "colorDate": "2023-10-30 22:53:25",
+      "nvewsThreat": "Very High Threat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.08,
+        45.88
+      ]
+    },
+    "properties": {
+      "volcanoName": "West Crater volcanic field",
+      "vnum": "321060",
+      "volcanoCd": "wa7",
+      "volcanoUrl": "https://www.usgs.gov/volcanoes/west-crater-volcanic-field",
+      "volcanoImage": "https://volcanoes.usgs.gov/vsc/images/west_crater/West_Crater_LeeSiebert_107020-home.jpg",
+      "obs": "cvo",
+      "region": "Washington",
+      "noticeId": null,
+      "noticeSynopsis": null,
+      "noticeUrl": null,
+      "alertLevel": "UNASSIGNED",
+      "colorCode": "UNASSIGNED",
+      "statusIconUrl": "https://volcanoes.usgs.gov/images/icons/map/unassigned_unassigned.png",
+      "alertDate": null,
+      "colorDate": null,
+      "nvewsThreat": "Low Threat"
+     }
+    }
+    ]
+}
